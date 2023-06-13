@@ -1,0 +1,9 @@
+OUTLINE
+Title: An Investor's Guide to Private Credit
+
+SECTION:
+Describe how private credit compares with other well known asset classes, such as real estate,
+VC, stocks, bonds. You can compare things like returns, volatility, access, and lockup.
+Make sure to also insert how Goldfinch private credit is different on these dimensions (specifically we have low lockup, and our accessibility is high).
+It would be great to put all of this in a table for the reader. Bring in data or at least some kind of chart if you can. This should be 100-200 words in length and the heading should be
+"Private credit vs. the rest".

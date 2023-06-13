@@ -1,0 +1,29 @@
+OUTLINE
+Title: An Investor's Guide to Private Credit
+
+SECTION:
+Write a brief intro on why private credit is interesting and why now is a good time for the reader
+to learn about it. This should be 50-100 words.
+
+SECTION:
+Give a definition of private credit, and then walk through an example deal - step by step, using realistic dollar amounts. Who is involved?
+What is the overall process? Don't forget to describe the basic economic terms and legal terms - use a table or list, if you want. This should be
+100-150 words in length and the heading shoud be "What is private credit, and how does it work?"
+
+SECTION:
+Describe how private credit compares with other well known asset classes, such as real estate,
+VC, stocks, bonds. You can compare things like returns, volatility, access, and lockup.
+Make sure to also insert how Goldfinch private credit is different on these dimensions (specifically we have low lockup, and our accessibility is high).
+It would be great to put all of this in a table for the reader. Bring in data or at least some kind of chart if you can. This should be 100-200 words in length and the heading should be
+"Private credit vs. the rest".
+
+SECTION:
+Describe how and why private credit can fit into a normal portfolio. Speak to it's
+diversification benefits. Definitely bring in historical data here to back up the claims. How would different 
+portfolio structures do if they did or did not include private credit?  This should be 100-150 words in length and the
+heading should be "Private credit as the anchor in your portfolio".
+
+SECTION:
+Just briefly summarize what has been said up till now, and end with some kind of little
+call to action / pitch about Goldfinch. This should be around 50-100 words in lengthe and the heading should
+be "Putting it together".
